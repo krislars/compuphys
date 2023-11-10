@@ -1,4 +1,2 @@
 # compuphys
-Some examples of undergrad computational physics.
-
-These are examples written for myself, not for students.  This respository is a work in progress.  Stay tuned!
+Some examples of undergraduate-level computational physics.  This respository is a work in progress.  Stay tuned!
